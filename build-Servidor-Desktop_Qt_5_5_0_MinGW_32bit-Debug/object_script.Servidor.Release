@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\servidor.o
+./release\equipos.o
+./release\encuentros.o
+./release\configuracion.o
+./release\mantenimientoequi.o
+./release\mantenimientopartidos.o
+./release\moc_servidor.o
+./release\moc_configuracion.o
+./release\moc_mantenimientoequi.o
+./release\moc_mantenimientopartidos.o
+);

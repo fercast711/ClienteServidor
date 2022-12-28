@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\servidor.o
+./debug\equipos.o
+./debug\encuentros.o
+./debug\configuracion.o
+./debug\mantenimientoequi.o
+./debug\mantenimientopartidos.o
+./debug\moc_servidor.o
+./debug\moc_configuracion.o
+./debug\moc_mantenimientoequi.o
+./debug\moc_mantenimientopartidos.o
+);
